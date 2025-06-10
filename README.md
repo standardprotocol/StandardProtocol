@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :)
 ### Currently a big fan of:
 - Monospaced fonts
 - Godot
